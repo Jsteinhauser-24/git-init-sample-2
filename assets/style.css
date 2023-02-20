@@ -1,0 +1,35 @@
+* {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+header {
+    background-color: green;
+    height: 50px;
+}
+body {
+    background-color: lavenderblush;
+}
+.topnav {
+
+    color: blueviolet;
+    font-size: 20px;
+   text-align: right;
+    
+}
+
+h2 {
+    text-align: center;
+    font-size: 50px;
+    font-weight: bolder;
+}
+#image {
+    position: relative;
+    left: 25%;
+}
+
+p{
+    text-align: center;
+}
+
+#form {
+ align-items:center ;
+}
